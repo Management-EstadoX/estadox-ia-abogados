@@ -28,7 +28,6 @@ publish directory = `.`, sin build command.
 Todos viven en `index.html`, dentro del nav `.quiero` (vista principal) o del bloque `.comm` (vista de onboarding):
 
 - Programa de clases (Google Drive, item 01 del nav `.quiero`)
-- Contacto por WhatsApp con un especialista (item 02 del nav `.quiero`)
-- Grupo de WhatsApp de la cohorte activa (item 03 del nav `.quiero`)
+- Contacto/grupo de WhatsApp de la cohorte activa (item 02 del nav `.quiero`)
 - Grupo de WhatsApp de la comunidad general (`chat.whatsapp.com/...`, vista de onboarding)
 - Invitación a la comunidad de Circle (`estadox.circle.so/join?invitation_token=...`, vista de onboarding)
