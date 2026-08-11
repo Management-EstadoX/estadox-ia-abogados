@@ -25,7 +25,10 @@ publish directory = `.`, sin build command.
 
 ## Enlaces que suelen cambiar
 
-Ambos viven dentro del bloque de onboarding en `index.html`:
+Todos viven en `index.html`, dentro del nav `.quiero` (vista principal) o del bloque `.comm` (vista de onboarding):
 
-- Grupo de WhatsApp (`chat.whatsapp.com/...`)
-- Invitación a la comunidad de Circle (`estadox.circle.so/join?invitation_token=...`)
+- Programa de clases (Google Drive, item 01 del nav `.quiero`)
+- Contacto por WhatsApp con un especialista (item 02 del nav `.quiero`)
+- Grupo de WhatsApp de la cohorte activa (item 03 del nav `.quiero`)
+- Grupo de WhatsApp de la comunidad general (`chat.whatsapp.com/...`, vista de onboarding)
+- Invitación a la comunidad de Circle (`estadox.circle.so/join?invitation_token=...`, vista de onboarding)
