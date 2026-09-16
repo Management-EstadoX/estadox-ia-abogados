@@ -11,7 +11,11 @@ Sitio estático de un solo archivo, sin build step.
 
 ## Deploy
 
-Publicado en Netlify: https://estadox-ia-abogados.netlify.app
+Publicado en Netlify: **https://estadox-ia-abogados-onboarding.netlify.app** — esa es la URL en uso.
+
+> ⚠️ `estadox-ia-abogados.netlify.app` (sin `-onboarding`) es un despliegue viejo que sigue vivo, no
+> se actualiza desde este repo y no está bajo nuestro control. Conserva el botón de factura
+> electrónica que se quitó en agosto de 2026 y links desactualizados. No editar contra esa URL.
 
 Para desplegar desde esta carpeta con el CLI de Netlify:
 
